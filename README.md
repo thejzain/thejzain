@@ -6,6 +6,6 @@
 </ul></h3>
 <h2>🛠 Skills</h2>
 Javascript, HTML, CSS...<br>
-| 🎵 Now Playing                                                                                                                    |
+| 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
