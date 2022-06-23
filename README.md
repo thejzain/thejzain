@@ -4,6 +4,6 @@
   <li>Freshman cse</li>
   <li>Learning Unity</li>
 </ul></h3>
-<h2>🛠 Skills</h2>.
+<h2>🛠 Skills</h2>
 Javascript, HTML, CSS...
-email : <thejzainkp@gmail.com> 
+email <thejzainkp@gmail.com> 
