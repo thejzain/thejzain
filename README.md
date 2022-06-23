@@ -6,4 +6,3 @@
 </ul></h3>
 <h2>🛠 Skills</h2>
 Javascript, HTML, CSS...
-email <thejzainkp@gmail.com> 
