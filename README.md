@@ -4,16 +4,6 @@
   <li>Freshman cse</li>
   <li>Learning Unity</li>
 </ul></h3>
-<h2>🛠 Skills</h2> <br>
+<h2>🛠 Skills</h2>.
 Javascript, HTML, CSS...
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
-</p>
-</details>
+email : <thejzainkp@gmail.com> 
