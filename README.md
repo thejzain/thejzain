@@ -6,8 +6,14 @@
 </ul></h3>
 <h2>🛠 Skills</h2> <br>
 Javascript, HTML, CSS...
-````
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
 ```
-Look! You can see my backticks.
-```
-````
+
+</p>
+</details>
