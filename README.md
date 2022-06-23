@@ -6,3 +6,8 @@
 </ul></h3>
 <h2>🛠 Skills</h2> <br>
 Javascript, HTML, CSS...
+````
+```
+Look! You can see my backticks.
+```
+````
