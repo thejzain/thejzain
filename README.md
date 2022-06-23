@@ -4,5 +4,5 @@
   <li>Freshman cse</li>
   <li>Learning Unity</li>
 </ul></h3>
-## 🛠 Skills <br>
+<h2>🛠 Skills</h2> <br>
 Javascript, HTML, CSS...
