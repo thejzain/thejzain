@@ -6,6 +6,4 @@
 </ul></h3>
 <h2>🛠 Skills</h2>
 Javascript, HTML, CSS...<br>
-| 🎵 Now Playing                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
