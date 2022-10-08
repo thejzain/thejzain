@@ -3,6 +3,7 @@
 <h3><ul>
   <li>Freshman cse</li>
   <li>Learning Unity</li>
+  <li>Flutter</li>
 </ul></h3>
 <h2>🛠 Skills</h2>
 Javascript, HTML, CSS...<br>
