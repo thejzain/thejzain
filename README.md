@@ -8,4 +8,5 @@
 <h2>🛠 Skills</h2>
 Javascript, HTML, CSS...<br>
 Flutter<br>
+unity<br>
 <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
