@@ -9,11 +9,6 @@ I am a budding Rust programmer with a keen interest in web development. Currentl
 * Problem-solving and analytical skills
 * Strong work ethic and adaptability
 
-## Projects
-
-* [Snake In Rust](https://github.com/thejzain/Snake_game)
-* [Dino](https://github.com/thejzain/dino)
-
 ## Learning Goals
 
 * Master the Rust programming language
